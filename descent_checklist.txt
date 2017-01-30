@@ -1,7 +1,7 @@
 Descent: Journeys in the Dark 2nd Edition Checklist
 
 == Expansions
-[ ] DJ03 - Lair of the Worm
+[ ] DJ03 - Lair of the Wyrm
 [ ] DJ04 - Labyrinth of Ruin
 [ ] DJ05 - The Trollfens
 [ ] DJ07 - Shadow of Nerekhall
